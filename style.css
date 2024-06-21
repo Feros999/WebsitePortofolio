@@ -1,0 +1,12 @@
+.header {
+    padding: 30px;
+    text-align: center;
+    background: gray;
+}
+body{
+    min-height: 2000px;
+}
+.jumbotron{
+    padding-top: 2rem;
+    background-color: #A9A9A9;
+}
